@@ -1,1 +1,1 @@
-fichero de la version3.
+fichero que tiene un bug corregido de la version3.
