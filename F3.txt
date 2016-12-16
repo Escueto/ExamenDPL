@@ -1,1 +1,1 @@
-fichero de la version3.
+fichero de la version3. Estamos creando la rama de compras con la funcionalidad nueva.
